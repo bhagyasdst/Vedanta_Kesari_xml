@@ -100817,7 +100817,7 @@
 	<volume vnum="092">
 		<part pnum="01" month="01" year="2005">
 			<entry>
-				<title>kaivalyopanishad</title>
+				<title>Kaivalyopanishad</title>
 				<feature></feature>
 				<page>0001-0001</page>
 				<allauthors/>
@@ -100903,7 +100903,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0041-0044</page>
 				<allauthors/>
@@ -100911,13 +100911,13 @@
 		</part>
 		<part pnum="02" month="02" year="2005">
 			<entry>
-				<title>kaivalyopanishad</title>
+				<title>Kaivalyopanishad</title>
 				<feature></feature>
 				<page>0045-0045</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>If You Want Peace. . .</title>
+				<title>If You Want Peace...</title>
 				<feature>Editorials</feature>
 				<page>0046-0050</page>
 				<allauthors>
@@ -100948,7 +100948,7 @@
 			</entry>
 			<entry>
 				<title>Meditation - I</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0062-0063</page>
 				<allauthors>
 					<author>Shivamayananda, Swami</author>
@@ -100994,7 +100994,7 @@
 			</entry>
 			<entry>
 				<title>Vedantic Thought for the Month</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0076-0076</page>
 				<allauthors/>
 			</entry>
@@ -101017,7 +101017,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0081-0084</page>
 				<allauthors/>
@@ -101025,7 +101025,7 @@
 		</part>
 		<part pnum="03" month="03" year="2005">
 			<entry>
-				<title>kaivalyopanishad</title>
+				<title>Kaivalyopanishad</title>
 				<feature></feature>
 				<page>0085-0085</page>
 				<allauthors/>
@@ -101070,7 +101070,7 @@
 			</entry>
 			<entry>
 				<title>Meditation - II</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0103-0104</page>
 				<allauthors>
 					<author>Shivamayananda, Swami</author>
@@ -101078,7 +101078,7 @@
 			</entry>
 			<entry>
 				<title>Celebrating Sweetness and Light</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0105-0106</page>
 				<allauthors>
 					<author>Special Correspondent, A</author>
@@ -101121,7 +101121,7 @@
 		</part>
 		<part pnum="04" month="04" year="2005">
 			<entry>
-				<title>kaivalyopanishad</title>
+				<title>Kaivalyopanishad</title>
 				<feature></feature>
 				<page>0125-0125</page>
 				<allauthors/>
@@ -101174,7 +101174,7 @@
 			</entry>
 			<entry>
 				<title>Meditation - III</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0147-0148</page>
 				<allauthors>
 					<author>Shivamayananda, Swami</author>
@@ -101190,7 +101190,7 @@
 			</entry>
 			<entry>
 				<title>New Centre in Germany, A</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0151-0151</page>
 				<allauthors/>
 			</entry>
@@ -101209,7 +101209,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0161-0164</page>
 				<allauthors/>
@@ -101254,7 +101254,7 @@
 			</entry>
 			<entry>
 				<title>Purpose of Human Life</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0180-0180</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -101303,7 +101303,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0201-0204</page>
 				<allauthors/>
@@ -101348,7 +101348,7 @@
 			</entry>
 			<entry>
 				<title>Mahasamadhi of Srimat Swami Ranganathanandaji Maharaj</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0225-0228</page>
 				<allauthors/>
 			</entry>
@@ -101379,13 +101379,13 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>The tale of a Tsunami Hero</title>
+				<title>The Tale of a Tsunami Hero</title>
 				<feature>News and Reports/The Order on the March</feature>
 				<page>0240-0241</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0242-0244</page>
 				<allauthors/>
@@ -101408,7 +101408,7 @@
 			</entry>
 			<entry>
 				<title>New President of the Ramakrishna Order</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0251-0252</page>
 				<allauthors/>
 			</entry>
@@ -101452,7 +101452,7 @@
 			</entry>
 			<entry>
 				<title>Attachment and Detachment</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0274-0275</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -101471,7 +101471,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0281-0284</page>
 				<allauthors/>
@@ -101485,7 +101485,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>But to this one, it makes a difference</title>
+				<title>But to this one, it makes a Difference</title>
 				<feature>Editorials</feature>
 				<page>0286-0290</page>
 				<allauthors>
@@ -101549,7 +101549,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0322-0324</page>
 				<allauthors/>
@@ -101586,13 +101586,13 @@
 			</entry>
 			<entry>
 				<title>Two Significant Events</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0337-0341</page>
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>Spirituality Today</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0342-0345</page>
 				<allauthors>
 					<author>Ranganathananda, Swami</author>
@@ -101600,11 +101600,9 @@
 			</entry>
 			<entry>
 				<title>Brotherly Love</title>
-				<feature></feature>
+				<feature>Reminiscences</feature>
 				<page>0346-0346</page>
-				<allauthors>
-					<author>Reminiscences</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>Sisters and Brothers of America</title>
@@ -101615,15 +101613,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Matr Devo Bhava</title>
+				<title>Matri Devo Bhava: A Monastic Sojourner</title>
 				<feature></feature>
 				<page>0351-0352</page>
-				<allauthors>
-					<author>Inspiration</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
-				<title>Secret of Non-attachment, The</title>
+				<title>Secret of Non-Attachment, The</title>
 				<feature></feature>
 				<page>0353-0354</page>
 				<allauthors>
@@ -101649,7 +101645,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0361-0364</page>
 				<allauthors/>
@@ -101678,7 +101674,7 @@
 			</entry>
 			<entry>
 				<title>Spirituality Today</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0372-0375</page>
 				<allauthors>
 					<author>Ranganathananda, Swami</author>
@@ -101717,7 +101713,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>In the Footsteps. . .</title>
+				<title>In the Footsteps...</title>
 				<feature></feature>
 				<page>0395-0396</page>
 				<allauthors>
@@ -101751,7 +101747,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Cultivatinf Time</title>
+				<title>Cultivating Time</title>
 				<feature>Editorials</feature>
 				<page>0406-0411</page>
 				<allauthors>
@@ -101774,7 +101770,7 @@
 			</entry>
 			<entry>
 				<title>Spiritualising Everyday Actions</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0418-0418</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -101820,7 +101816,7 @@
 			</entry>
 			<entry>
 				<title>Vadakku Mudasal Odai: The Metamorphosis of a Tsunami Village</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0431-0433</page>
 				<allauthors/>
 			</entry>
@@ -101845,7 +101841,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book reviews</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0441-0444</page>
 				<allauthors/>
@@ -101854,7 +101850,7 @@
 		<part pnum="12" month="12" year="2005">
 			<entry>
 				<title>Wake-up Call to Youth, A</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0445-0445</page>
 				<allauthors/>
 			</entry>
@@ -101932,7 +101928,7 @@
 			</entry>
 			<entry>
 				<title>What Youth Ask</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0489-0493</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -102028,20 +102024,16 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sorry, again!</title>
+				<title>Sorry, again!- A Youth</title>
 				<feature></feature>
 				<page>0542-0543</page>
-				<allauthors>
-					<author>Youth, A</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
-				<title>Young Learner’s Vows</title>
+				<title>Young Learner’s Vows-Monastic Sojourner, A</title>
 				<feature></feature>
 				<page>0544-0552</page>
-				<allauthors>
-					<author>Monastic Sojourner, A</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 		</part>
 	</volume>
@@ -102096,12 +102088,12 @@
 				<feature></feature>
 				<page>0020-0023</page>
 				<allauthors>
-					<author>Muralidhara, Dr., H. N</author>
+					<author>Muralidhara, Dr. H. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>West Bengal Chief Minister’s Visit</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0024-0026</page>
 				<allauthors>
 					<author>Jitatmananda, Swami</author>
@@ -102189,7 +102181,7 @@
 			</entry>
 			<entry>
 				<title>Synopsis of the Governing Body’s Report for 2004-2005</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0065-0066</page>
 				<allauthors>
 					<author>Smaranananda, Swami</author>
@@ -102213,7 +102205,7 @@
 			</entry>
 			<entry>
 				<title>Control of Subconscious Mind</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0073-0074</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -102298,7 +102290,7 @@
 			</entry>
 			<entry>
 				<title>President of India Visits Porbander Centre</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0114-0115</page>
 				<allauthors/>
 			</entry>
@@ -102376,7 +102368,7 @@
 			</entry>
 			<entry>
 				<title>Nagpur Temple Consecrated</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0148-0150</page>
 				<allauthors/>
 			</entry>
@@ -102488,7 +102480,7 @@
 				<feature></feature>
 				<page>0194-0197</page>
 				<allauthors>
-					<author>John L Dobson</author>
+					<author>John L. Dobson</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -102555,10 +102547,10 @@
 			</entry>
 			<entry>
 				<title>Education, Spirituality and We</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0224-0225</page>
 				<allauthors>
-					<author>Abdul Kalam, A. P. J., Dr.,</author>
+					<author>Abdul Kalam, Dr. A. P. J.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -102598,7 +102590,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>A Portrait of Greatness</title>
+				<title>Portrait of Greatness, A</title>
 				<feature>Editorials</feature>
 				<page>0246-0250</page>
 				<allauthors>
@@ -102621,7 +102613,7 @@
 			</entry>
 			<entry>
 				<title>Quest for Science and Spirituality</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0256-0259</page>
 				<allauthors>
 					<author>Rajiv Mehrotra</author>
@@ -102701,7 +102693,7 @@
 			</entry>
 			<entry>
 				<title>Quest for Science and Spirituality-II</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0292-0296</page>
 				<allauthors>
 					<author>Rajiv Mehrotra</author>
@@ -102736,7 +102728,7 @@
 				<feature></feature>
 				<page>0309-0312</page>
 				<allauthors>
-					<author>Bhavaniprana, Pravrajika</author>
+					<author>Pravrajika Bhavaniprana</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -102750,7 +102742,7 @@
 				<feature></feature>
 				<page>0315-0320</page>
 				<allauthors>
-					<author>Umesh C. Gulati</author>
+					<author>Umesh Gulati</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -102818,7 +102810,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Meeting With ‘M. ’, A</title>
+				<title>Meeting with ‘M.’, A</title>
 				<feature>Reminiscences</feature>
 				<page>0346-0348</page>
 				<allauthors>
@@ -102826,16 +102818,14 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book by Swami Vivekananda’s Father, A</title>
+				<title>Book by Swami Vivekananda’s Father, A: Our Special Correspondent</title>
 				<feature></feature>
 				<page>0349-0350</page>
-				<allauthors>
-					<author>Our Special Correspondent</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>Quest for Science and Spirituality-III</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0351-0353</page>
 				<allauthors>
 					<author>Rajiv Mehrotra</author>
@@ -102879,7 +102869,7 @@
 			</entry>
 			<entry>
 				<title>Vivekananda’s Statue Installed in India’s Parliament House, Swami</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0370-0370</page>
 				<allauthors/>
 			</entry>
@@ -102899,7 +102889,7 @@
 			</entry>
 			<entry>
 				<title>Quest for Science and Spirituality-IV</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0374-0376</page>
 				<allauthors>
 					<author>Rajiv Mehrotra</author>
@@ -102910,7 +102900,7 @@
 				<feature></feature>
 				<page>0377-0381</page>
 				<allauthors>
-					<author>Sivaramakrishna, Dr. M.</author>
+					<author>Sivaramkrishna, Dr. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -103002,7 +102992,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>After tyaga (renunciation) Comes Peace</title>
+				<title>After Tyaga (Renunciation) Comes Peace</title>
 				<feature></feature>
 				<page>0424-0426</page>
 				<allauthors>
@@ -103018,16 +103008,16 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vivekananda, Swami—the Condensed India</title>
+				<title>Vivekananda, Swami—The Condensed India</title>
 				<feature></feature>
 				<page>0431-0432</page>
 				<allauthors>
-					<author>Parahitaprana, Pravrajika</author>
+					<author>Pravrajika Parahitaprana</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Meditation and Its Dimensions</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0433-0434</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -103044,7 +103034,7 @@
 				<feature></feature>
 				<page>0436-0437</page>
 				<allauthors>
-					<author>Ruma Pal, Mrs., Justice</author>
+					<author>Ruma Pal, Justice Mrs.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -103063,7 +103053,7 @@
 		<part pnum="12" month="12" year="2006">
 			<entry>
 				<title>Prayer for Amity and Friendliness</title>
-				<feature></feature>
+				<feature>Prayers/Vedic Prayers</feature>
 				<page>0445-0445</page>
 				<allauthors/>
 			</entry>
@@ -103234,7 +103224,7 @@
 				<feature></feature>
 				<page>0516-0519</page>
 				<allauthors>
-					<author>Vivekaprana, Pravrajika</author>
+					<author>Pravrajika Vivekaprana</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -103268,7 +103258,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Inter-Personal Relationships in the Workplace:A Candid View</title>
+				<title>Inter-Personal Relationships in the Workplace: A Candid View</title>
 				<feature></feature>
 				<page>0534-0538</page>
 				<allauthors>
@@ -103276,7 +103266,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Place For Building a Temple, The Wherein Lies the Defect?</title>
+				<title>Place for Building a Temple, The Wherein Lies the Defect?</title>
 				<feature></feature>
 				<page>0539-0539</page>
 				<allauthors/>
@@ -103290,7 +103280,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Whosoever Is Angry With His Brother</title>
+				<title>Whosoever Is Angry with His Brother</title>
 				<feature></feature>
 				<page>0545-0546</page>
 				<allauthors>
@@ -103338,7 +103328,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Real and Unreal—a Vedantic Study</title>
+				<title>Real and Unreal—A Vedantic Study</title>
 				<feature></feature>
 				<page>0008-0011</page>
 				<allauthors>
@@ -103453,7 +103443,7 @@
 			</entry>
 			<entry>
 				<title>Philip Glass’ Musical Presentation of The Passion of Sri Ramakrishna</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0065-0066</page>
 				<allauthors>
 					<author>Gordon Stavig, Dr.</author>
@@ -103481,7 +103471,7 @@
 			</entry>
 			<entry>
 				<title>Synopsis of the Governing Body’s Report for 2005-06</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0075-0076</page>
 				<allauthors>
 					<author>Smaranananda, Swami</author>
@@ -103549,7 +103539,7 @@
 			</entry>
 			<entry>
 				<title>Basics of Meditation</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0111-0111</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -103629,10 +103619,10 @@
 			</entry>
 			<entry>
 				<title>Mind and Meditation</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0141-0142</page>
 				<allauthors>
-					<author>Brahmeshananda</author>
+					<author>Brahmeshananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -103644,7 +103634,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yogananda, Swami—the Heir of a Spiritual Tradition</title>
+				<title>Yogananda, Swami—The Heir of a Spiritual Tradition</title>
 				<feature></feature>
 				<page>0145-0151</page>
 				<allauthors>
@@ -103656,7 +103646,7 @@
 				<feature></feature>
 				<page>0152-0154</page>
 				<allauthors>
-					<author>Bodhamayaprana, Pravrajika</author>
+					<author>Pravrajika Bodhamayaprana</author>
 				</allauthors>
 			</entry>
 			<entry>
