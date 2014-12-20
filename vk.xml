@@ -107148,13 +107148,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Letters of Swami Premananda)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0005-0005</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>The Sanskrit Commission</title>
+				<title>Sanskrit Commission (1956 - 1957), The</title>
 				<feature></feature>
 				<page>0006-0008</page>
 				<allauthors>
@@ -107162,11 +107162,11 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Memoirs of Mahapurush Mahraj</title>
+				<title>Memoirs of Mahapurush Maharaj</title>
 				<feature>Reminiscences</feature>
 				<page>0009-0014</page>
 				<allauthors>
-					<author>Shivakrishnanada, Swami</author>
+					<author>Shivakrishnananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -107186,8 +107186,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Bohemian Devotee of Sri Ramakrishna</title>
-				<feature></feature>
+				<title>Bohemian Devotee of Sri Ramakrishna, A</title>
+				<feature>Book Reviews</feature>
 				<page>0024-0027</page>
 				<allauthors>
 					<author>Sivaramkrishna, M.</author>
@@ -107200,7 +107200,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Spiritual values in the Gita</title>
+				<title>Spiritual Values in the Gita</title>
 				<feature></feature>
 				<page>0030-0033</page>
 				<allauthors>
@@ -107209,21 +107209,21 @@
 			</entry>
 			<entry>
 				<title>Peace and Bliss - A Vedantic Understanding</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0034-0035</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A new temple of Sri Ramakrishna in Kodagu</title>
-				<feature></feature>
+				<title>New Temple of Sri Ramakrishna in Kodagu, A</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0036-0038</page>
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0039-0039</page>
 				<allauthors/>
 			</entry>
@@ -107234,7 +107234,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>book_review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0042-0044</page>
 				<allauthors/>
@@ -107250,7 +107250,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Holding the mirror to Oneself</title>
+				<title>Holding the Mirror to Oneself</title>
 				<feature>Editorials</feature>
 				<page>0046-0048</page>
 				<allauthors>
@@ -107258,13 +107258,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Work at the Shanti Ashrama)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0049-0049</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>The sanskrit commission</title>
+				<title>Sanskrit Commission (1956 - 1957), The</title>
 				<feature></feature>
 				<page>0050-0053</page>
 				<allauthors>
@@ -107272,10 +107272,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Synopsis of the governing body's report for 2008-2009</title>
-				<feature></feature>
+				<title>Synopsis of the Governing Body's Report for 2008-2009</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0054-0055</page>
-				<allauthors/>
+				<allauthors>
+					<author>Prabhananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Memoirs of Mahapurush Maharaj</title>
@@ -107286,7 +107288,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda in Karnataka during 1892</title>
+				<title>Vivekananda in Karnataka during 1892, Swami</title>
 				<feature></feature>
 				<page>0061-0067</page>
 				<allauthors>
@@ -107309,14 +107311,14 @@
 			</entry>
 			<entry>
 				<title>Parliament of Religions - Melbourne 2009</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0075-0077</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>book_review</title>
-				<feature>Book Reviews</feature>
-				<page>0080-0084</page>
+				<title>Vivekananda Tells Stories</title>
+				<feature>Vivekananda Tells Stories</feature>
+				<page>0078-0078</page>
 				<allauthors/>
 			</entry>
 			<entry>
@@ -107326,9 +107328,9 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
-				<page>0078-0078</page>
+				<title>Book Reviews</title>
+				<feature>Book Reviews</feature>
+				<page>0080-0084</page>
 				<allauthors/>
 			</entry>
 		</part>
@@ -107350,8 +107352,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (At Shri Ramakrishna Samaj, Guddapah)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0089-0090</page>
 				<allauthors/>
 			</entry>
@@ -107394,7 +107396,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Coping with Family Stress Holy Mother's Example</title>
+				<title>Coping with Family Stress: Holy Mother's Example</title>
 				<feature></feature>
 				<page>0110-0113</page>
 				<allauthors>
@@ -107403,7 +107405,7 @@
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0114-0114</page>
 				<allauthors/>
 			</entry>
@@ -107422,7 +107424,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0121-0124</page>
 				<allauthors/>
@@ -107446,8 +107448,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Spiritual Greatness of India)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0130-0131</page>
 				<allauthors/>
 			</entry>
@@ -107474,13 +107476,15 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Slow and Silent, as the gentle dew</title>
+				<title>Influence of Ramakrishna-Vivekananda on Contemporary Bengali Literature - I</title>
 				<feature></feature>
 				<page>0142-0147</page>
-				<allauthors/>
+				<allauthors>
+					<author>Hironmoy Mukherjee</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna - One with cosmic experience</title>
+				<title>Sri Ramakrishna - One with Cosmic Existence</title>
 				<feature></feature>
 				<page>0148-0152</page>
 				<allauthors>
@@ -107489,12 +107493,12 @@
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0153-0153</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>The Frame and the Fill</title>
+				<title>Frame and the Fill, The: Thoughts on Some Aspects of Human Brain</title>
 				<feature></feature>
 				<page>0154-0157</page>
 				<allauthors>
@@ -107508,7 +107512,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0161-0164</page>
 				<allauthors/>
@@ -107524,7 +107528,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Struggle-Mantra</title>
+				<title>Struggle-Mantra, The</title>
 				<feature>Editorials</feature>
 				<page>0166-0168</page>
 				<allauthors>
@@ -107532,13 +107536,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Taittiriya Upanishad)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0169-0169</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>The Loving Aspect of Holy Mother</title>
+				<title>Loving Aspect of Holy Mother, The</title>
 				<feature></feature>
 				<page>0170-0175</page>
 				<allauthors>
@@ -107547,7 +107551,7 @@
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0176-0177</page>
 				<allauthors/>
 			</entry>
@@ -107574,7 +107578,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A pilgrimage to Kalady - The Birthplace of Adi Shankara</title>
+				<title>Pilgrimage to Kalady - The Birthplace of Adi Shankara, A</title>
 				<feature>Travelogue</feature>
 				<page>0190-0198</page>
 				<allauthors>
@@ -107588,7 +107592,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0201-0204</page>
 				<allauthors/>
@@ -107604,7 +107608,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Worker behind the Work</title>
+				<title>Worker Behind the Work, The</title>
 				<feature>Editorials</feature>
 				<page>0206-0208</page>
 				<allauthors>
@@ -107612,8 +107616,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Influence of India on Western Civilisation)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0209-0213</page>
 				<allauthors/>
 			</entry>
@@ -107626,7 +107630,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>World's Largest Act of Faith</title>
+				<title>World's Largest Act of Faith: Glimpses of Mahakumbh Mela in Haridwar-2010</title>
 				<feature>Travelogue</feature>
 				<page>0218-0226</page>
 				<allauthors>
@@ -107640,22 +107644,24 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Practising Spirituality in a busy world</title>
-				<feature></feature>
+				<title>Practising Spirituality in a Busy World</title>
+				<feature>Youth Forum</feature>
 				<page>0229-0230</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Slow and Silent, as the Gentle Dew</title>
+				<title>Influence of Ramakrishna-Vivekananda on Contemporary Bengali Literature - II</title>
 				<feature></feature>
 				<page>0231-0236</page>
-				<allauthors/>
+				<allauthors>
+					<author>Hironmoy Mukherjee</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0237-0238</page>
 				<allauthors/>
 			</entry>
@@ -107666,7 +107672,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0241-0244</page>
 				<allauthors/>
@@ -107682,7 +107688,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Reality behind the veil</title>
+				<title>Reality Behind the Veil, The</title>
 				<feature>Editorials</feature>
 				<page>0246-0248</page>
 				<allauthors>
@@ -107690,8 +107696,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Swami Adbhutananda)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0249-0249</page>
 				<allauthors/>
 			</entry>
@@ -107712,7 +107718,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>World's Largest Act of Faith</title>
+				<title>World's Largest Act of Faith: Glimpses of Mahakumbh Mela in Haridwar-2010</title>
 				<feature>Travelogue</feature>
 				<page>0259-0267</page>
 				<allauthors>
@@ -107720,20 +107726,22 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>An Unpublished Letter of Swami Saradananda</title>
+				<title>Unpublished Letter of Swami Saradananda, An</title>
 				<feature>Letters/New Find</feature>
 				<page>0268-0269</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Slow and Silent, as the Gentle dew</title>
+				<title>Influence of Ramakrishna-Vivekananda on Contemporary Bengali Literature - III</title>
 				<feature></feature>
 				<page>0270-0275</page>
-				<allauthors/>
+				<allauthors>
+					<author>Hironmoy Mukherjee</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Vivekananda Tells stories</title>
-				<feature></feature>
+				<title>Vivekananda Tells Stories</title>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0276-0278</page>
 				<allauthors/>
 			</entry>
@@ -107744,7 +107752,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0281-0284</page>
 				<allauthors/>
@@ -107768,13 +107776,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Sri Ramakrishna, the Great Master)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0289-0291</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda's Voice Recording ?</title>
+				<title>Vivekananda's Voice Recording?, Swami</title>
 				<feature></feature>
 				<page>0292-0293</page>
 				<allauthors>
@@ -107782,7 +107790,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>An Event in the Court of Janaka</title>
+				<title>Event in the Court of Janaka, An</title>
 				<feature></feature>
 				<page>0294-0296</page>
 				<allauthors>
@@ -107807,15 +107815,17 @@
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0306-0308</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Slow and Silent, as the Gentle dew</title>
+				<title>Influence of Ramakrishna-Vivekananda on Contemporary Bengali Literature - IV</title>
 				<feature></feature>
 				<page>0309-0311</page>
-				<allauthors/>
+				<allauthors>
+					<author>Hironmoy Mukherjee</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Unpublished Letters of Swami Saradananda</title>
@@ -107838,7 +107848,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0321-0324</page>
 				<allauthors/>
@@ -107849,7 +107859,9 @@
 				<title>Vedic Prayers</title>
 				<feature>Prayers/Vedic Prayers</feature>
 				<page>0325-0325</page>
-				<allauthors/>
+				<allauthors>
+					<author>Sambuddhananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Living Like A Lotus</title>
@@ -107860,10 +107872,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Confessions on the Way Towards Peace)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0329-0329</page>
-				<allauthors/>
+				<allauthors>
+					<author>Le Frile</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Thus Prayed Sri Ramakrishna</title>
@@ -107888,7 +107902,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Mary Tappan Wright: Swamiji's first Western Chronicler</title>
+				<title>Mary Tappan Wright: Swamiji's First Western Chronicler</title>
 				<feature></feature>
 				<page>0342-0347</page>
 				<allauthors>
@@ -107911,7 +107925,7 @@
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0356-0357</page>
 				<allauthors/>
 			</entry>
@@ -107930,7 +107944,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0361-0364</page>
 				<allauthors/>
@@ -107954,13 +107968,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Letters of Swami Premananda)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0370-0370</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Suresh Chandra Datta</title>
+				<title>Suresh Chandra Datta: A Householder Disciple of Sri Ramakrishna</title>
 				<feature></feature>
 				<page>0371-0374</page>
 				<allauthors>
@@ -107968,7 +107982,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Mary Tappan Wright: Swamiji's first western Chronicler</title>
+				<title>Mary Tappan Wright: Swamiji's First Western Chronicler</title>
 				<feature></feature>
 				<page>0375-0381</page>
 				<allauthors>
@@ -107976,8 +107990,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Goal and the Way</title>
-				<feature></feature>
+				<title>Goal and the Way, The</title>
+				<feature>Youth Forum</feature>
 				<page>0382-0383</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -107999,7 +108013,7 @@
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0391-0392</page>
 				<allauthors/>
 			</entry>
@@ -108018,7 +108032,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0400-0404</page>
 				<allauthors/>
@@ -108042,13 +108056,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (The Holy Mother)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0409-0409</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Suresh Chandra Datta</title>
+				<title>Suresh Chandra Datta: A Householder Disciple of Sri Ramakrishna</title>
 				<feature></feature>
 				<page>0410-0412</page>
 				<allauthors>
@@ -108056,7 +108070,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Mary Tappan Wright: Swamiji's first Western Chronicler</title>
+				<title>Mary Tappan Wright: Swamiji's First Western Chronicler</title>
 				<feature></feature>
 				<page>0413-0416</page>
 				<allauthors>
@@ -108064,7 +108078,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>God's ways god alone knows</title>
+				<title>God's ways God Alone Knows</title>
 				<feature></feature>
 				<page>0417-0419</page>
 				<allauthors>
@@ -108081,20 +108095,20 @@
 			</entry>
 			<entry>
 				<title>Interpreting Ramakrishna: Kali's Child Revisited</title>
-				<feature></feature>
+				<feature>Book Reviews</feature>
 				<page>0422-0425</page>
 				<allauthors>
 					<author>Jeffery D. Long</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Vedanta Kesari Archives DVD Released</title>
-				<feature></feature>
+				<title>Vedanta Kesari Archives DVD Released, The</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0426-0428</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Karma Yoga - The path of blissful action</title>
+				<title>Karma Yoga - The Path of Blissful Action</title>
 				<feature></feature>
 				<page>0429-0431</page>
 				<allauthors>
@@ -108102,14 +108116,14 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Unpublished Letters of swami Saradananda</title>
+				<title>Unpublished Letters of Swami Saradananda</title>
 				<feature>Letters/New Find</feature>
 				<page>0432-0433</page>
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>Vivekananda Tells Stories</title>
-				<feature></feature>
+				<feature>Vivekananda Tells Stories</feature>
 				<page>0434-0436</page>
 				<allauthors/>
 			</entry>
@@ -108120,7 +108134,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0441-0444</page>
 				<allauthors/>
@@ -108134,7 +108148,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Freedon: Inner and Outer</title>
+				<title>Freedom: Inner and Outer</title>
 				<feature>Editorials</feature>
 				<page>0446-0449</page>
 				<allauthors>
@@ -108142,7 +108156,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Freedom, O Freedom!' is the Song of the Soul</title>
+				<title>`Freedom, O Freedom!' is the Song of the Soul</title>
 				<feature></feature>
 				<page>0451-0456</page>
 				<allauthors>
@@ -108150,7 +108164,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Freedom - The Core theme of the upanishads</title>
+				<title>Freedom - The Core Theme of the Upanishads</title>
 				<feature></feature>
 				<page>0458-0462</page>
 				<allauthors>
@@ -108158,7 +108172,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Buddhist path to Freedom</title>
+				<title>Buddhist Path to Freedom, The</title>
 				<feature></feature>
 				<page>0464-0467</page>
 				<allauthors>
@@ -108166,13 +108180,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Freedom or Liberation</title>
+				<title>Freedom or Liberation: In the Words of the Direct Disciples of Sri Ramakrishna</title>
 				<feature></feature>
 				<page>0469-0474</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna's idea of Freedom</title>
+				<title>Sri Ramakrishna's Idea of Freedom</title>
 				<feature></feature>
 				<page>0476-0479</page>
 				<allauthors>
@@ -108180,7 +108194,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda and a New Definition of Freedom</title>
+				<title>Vivekananda and a New Definition of Freedom, Swami</title>
 				<feature></feature>
 				<page>0481-0485</page>
 				<allauthors>
@@ -108236,7 +108250,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Freedom as the Goal of four yogas</title>
+				<title>Freedom as the Goal of Four Yogas</title>
 				<feature></feature>
 				<page>0516-0520</page>
 				<allauthors>
@@ -108252,7 +108266,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Wings on endless air</title>
+				<title>Wings on Endless Air</title>
 				<feature></feature>
 				<page>0526-0532</page>
 				<allauthors>
@@ -108272,7 +108286,7 @@
 				<feature></feature>
 				<page>0539-0542</page>
 				<allauthors>
-					<author>NVC Swamy</author>
+					<author>Swamy, N. V. C.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -108284,7 +108298,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Freedom - the Indian Context</title>
+				<title>Freedom - The Indian Context</title>
 				<feature></feature>
 				<page>0549-0550</page>
 				<allauthors>
@@ -108302,21 +108316,21 @@
 			<entry>
 				<title>Freedom and Magnanimity: A Dialogue</title>
 				<feature></feature>
-				<page>0058-0562</page>
+				<page>0558-0562</page>
 				<allauthors>
 					<author>Prema Nandakumar</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Freedom, the Chord that Unites World-views</title>
+				<title>Freedom, the Chord that Unites World-Views</title>
 				<feature></feature>
-				<page>0564-0567</page>
+				<page>0563-0567</page>
 				<allauthors>
 					<author>Jay Lakhani</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Holy Mother and Freedom</title>
+				<title>Holy Mother and Freedom, The</title>
 				<feature></feature>
 				<page>0569-0572</page>
 				<allauthors>
@@ -108332,7 +108346,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Mukti - 'the worthiest Gain of Man</title>
+				<title>Mukti - 'The Worthiest Gain of Man</title>
 				<feature></feature>
 				<page>0579-0581</page>
 				<allauthors>
@@ -108360,7 +108374,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sowing the right seeds</title>
+				<title>Sowing the Right Seeds</title>
 				<feature>Editorials</feature>
 				<page>0002-0004</page>
 				<allauthors>
@@ -108368,17 +108382,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (The Tenth Guru)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0005-0006</page>
-				<allauthors/>
+				<allauthors>
+					<author>Aurobindo Ghose, Sri</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Bhuvaneshwari Devi</title>
+				<title>Bhuvaneshwari Devi: The Great and Noble Mother of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0007-0010</page>
 				<allauthors>
-					<author>Ththagatananda, Swami</author>
+					<author>Tathagatananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -108423,12 +108439,12 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0029-0029</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>An approach to Sri Sri Ramakrishna Kathamrita</title>
+				<title>Approach to Sri Sri Ramakrishna Kathamrita, An</title>
 				<feature></feature>
 				<page>0030-0036</page>
 				<allauthors>
@@ -108442,7 +108458,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0040-0044</page>
 				<allauthors/>
@@ -108458,7 +108474,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda, a Spiritual Giant</title>
+				<title>Vivekananda, a Spiritual Giant, Swami</title>
 				<feature>Editorials</feature>
 				<page>0046-0048</page>
 				<allauthors>
@@ -108466,13 +108482,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (The Spirit of Indian Culture and Education)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0049-0049</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Bhuvaneshwari Devi</title>
+				<title>Bhuvaneshwari Devi: The Great and Noble Mother of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0050-0053</page>
 				<allauthors>
@@ -108488,13 +108504,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Synopsis of the Governing body's report for 2009-2010</title>
-				<feature></feature>
+				<title>Synopsis of the Governing Body's Report for 2009-2010</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0059-0060</page>
-				<allauthors/>
+				<allauthors>
+					<author>Prabhananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Kathopanishad in the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0061-0063</page>
 				<allauthors/>
@@ -108509,7 +108527,7 @@
 			</entry>
 			<entry>
 				<title>Peace and Happiness</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0066-0067</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -108525,14 +108543,14 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0072-0072</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Path of Devotion</title>
+				<title>Path of Devotion, The</title>
 				<feature></feature>
 				<page>0073-0075</page>
 				<allauthors>
@@ -108541,7 +108559,7 @@
 			</entry>
 			<entry>
 				<title>Living with Swami Brahmananda</title>
-				<feature></feature>
+				<feature>Book Reviews</feature>
 				<page>0076-0077</page>
 				<allauthors>
 					<author>William Page</author>
@@ -108554,7 +108572,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0081-0084</page>
 				<allauthors/>
@@ -108570,7 +108588,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A simple, obvious Truth</title>
+				<title>Simple, Obvious Truth, A</title>
 				<feature>Editorials</feature>
 				<page>0086-0088</page>
 				<allauthors>
@@ -108578,13 +108596,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (The Sannyasin and the Householder)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0089-0091</page>
-				<allauthors/>
+				<allauthors>
+					<author>Vireswarananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Kathopanishad in the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0092-0095</page>
 				<allauthors>
@@ -108596,7 +108616,7 @@
 				<feature></feature>
 				<page>0096-0101</page>
 				<allauthors>
-					<author>Tannishtananda, Swami</author>
+					<author>Tannishthananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -108625,7 +108645,7 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0109-0109</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
@@ -108641,7 +108661,7 @@
 			</entry>
 			<entry>
 				<title>Toward a True Kinship</title>
-				<feature></feature>
+				<feature>Book Reviews</feature>
 				<page>0113-0115</page>
 				<allauthors>
 					<author>William Page</author>
@@ -108662,7 +108682,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0121-0124</page>
 				<allauthors/>
@@ -108673,7 +108693,9 @@
 				<title>Vedic Prayers</title>
 				<feature>Prayers/Vedic Prayers</feature>
 				<page>0125-0125</page>
-				<allauthors/>
+				<allauthors>
+					<author>Sambuddhananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Right to Spirituality</title>
@@ -108684,13 +108706,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Prepare Ye for the Inevitable Hour)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0129-0129</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Kathopanishad in the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0130-0132</page>
 				<allauthors>
@@ -108710,19 +108732,19 @@
 				<feature></feature>
 				<page>0139-0142</page>
 				<allauthors>
-					<author>Tannishtananda, Swami</author>
+					<author>Tannishthananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0143-0143</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Building-blocks of Inner Strength</title>
+				<title>Building-Blocks of Inner Strength, The</title>
 				<feature></feature>
 				<page>0144-0146</page>
 				<allauthors>
@@ -108730,11 +108752,11 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Viveka and Vairagya - Essential qualities for success in life</title>
+				<title>Viveka and Vairagya - Essential Qualities for Success in Life</title>
 				<feature></feature>
 				<page>0147-0151</page>
 				<allauthors>
-					<author>Gopal Bhar</author>
+					<author>Gopal C. Bhar</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -108746,7 +108768,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda on Regeneration of Indian Women</title>
+				<title>Vivekananda on Regeneration of Indian Women, Swami</title>
 				<feature></feature>
 				<page>0154-0158</page>
 				<allauthors>
@@ -108760,7 +108782,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0161-0164</page>
 				<allauthors/>
@@ -108771,10 +108793,12 @@
 				<title>Vedic Prayers</title>
 				<feature>Prayers/Vedic Prayers</feature>
 				<page>0165-0165</page>
-				<allauthors/>
+				<allauthors>
+					<author>Sambuddhananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Where should we begin?</title>
+				<title>Where Should We Begin?</title>
 				<feature>Editorials</feature>
 				<page>0166-0168</page>
 				<allauthors>
@@ -108782,41 +108806,43 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Some Aspects of the Vedanta)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0169-0170</page>
-				<allauthors/>
+				<allauthors>
+					<author>Ramaswami Sastri, K. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Holy Mother's Four Visits to Orissa</title>
 				<feature></feature>
 				<page>0171-0174</page>
 				<allauthors>
-					<author>Tannishtananda, Swami</author>
+					<author>Tannishthananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Centenary of Holy Mother's visit to South India ( 1911-2011 )</title>
-				<feature></feature>
+				<title>Centenary of Holy Mother's Visit to South India (1911-2011)</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0175-0180</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Centenary celebrations - a report</title>
-				<feature></feature>
+				<title>Centenary Celebrations - A Report</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0181-0183</page>
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0184-0185</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Seeing through a living Legend</title>
+				<title>Seeing Through a Living Legend</title>
 				<feature></feature>
 				<page>0186-0190</page>
 				<allauthors>
@@ -108846,7 +108872,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0200-0204</page>
 				<allauthors/>
@@ -108862,7 +108888,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Nishtha' or Steadiness of Purpose</title>
+				<title>`Nishtha' or Steadiness of Purpose</title>
 				<feature>Editorials</feature>
 				<page>0206-0209</page>
 				<allauthors>
@@ -108870,13 +108896,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (The Gospel of Hope)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0210-0212</page>
-				<allauthors/>
+				<allauthors>
+					<author>Shuddhananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Kathopanishad in the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0213-0215</page>
 				<allauthors>
@@ -108900,7 +108928,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Seeing through a living legend</title>
+				<title>Seeing Through a Living Legend</title>
 				<feature></feature>
 				<page>0223-0228</page>
 				<allauthors>
@@ -108909,14 +108937,14 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0229-0229</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda's Special Relationship with Raja Ajit Singh</title>
+				<title>Vivekananda's Special Relationship with Raja Ajit Singh, Swami</title>
 				<feature></feature>
 				<page>0230-0232</page>
 				<allauthors>
@@ -108924,7 +108952,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Direct Disciples in their Lighter Moments</title>
+				<title>Direct Disciples in Their Lighter Moments</title>
 				<feature></feature>
 				<page>0233-0237</page>
 				<allauthors>
@@ -108938,7 +108966,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0240-0244</page>
 				<allauthors/>
@@ -108949,10 +108977,12 @@
 				<title>Vedic Prayers</title>
 				<feature>Prayers/Vedic Prayers</feature>
 				<page>0245-0245</page>
-				<allauthors/>
+				<allauthors>
+					<author>Sambuddhananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>The Story of Two Sons</title>
+				<title>Story of Two Sons, The</title>
 				<feature>Editorials</feature>
 				<page>0246-0249</page>
 				<allauthors>
@@ -108960,13 +108990,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Confessions on the Way Towards Peace)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0250-0250</page>
-				<allauthors/>
+				<allauthors>
+					<author>Le Frile</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda's special relationship with Raja Ajit Singh</title>
+				<title>Vivekananda's Special Relationship with Raja Ajit Singh, Swami</title>
 				<feature></feature>
 				<page>0251-0255</page>
 				<allauthors>
@@ -108982,7 +109014,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Direct disciples in their lighter moments</title>
+				<title>Direct Disciples in Their Lighter Moments</title>
 				<feature></feature>
 				<page>0258-0261</page>
 				<allauthors>
@@ -108990,7 +109022,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Contemplation on the guru-ideal</title>
+				<title>Contemplation on the Guru-Ideal</title>
 				<feature></feature>
 				<page>0262-0265</page>
 				<allauthors>
@@ -108999,14 +109031,14 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0266-0266</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Does everything happen according to God's will ?</title>
+				<title>Does Everything Happen According to God's Will?</title>
 				<feature></feature>
 				<page>0267-0269</page>
 				<allauthors>
@@ -109015,14 +109047,14 @@
 			</entry>
 			<entry>
 				<title>Japa, Meditation and Spiritual Practice</title>
-				<feature></feature>
+				<feature>Youth Forum</feature>
 				<page>0270-0271</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A peep into the Fathomless Hinduism</title>
+				<title>Peep Into the Fathomless Hinduism, A</title>
 				<feature></feature>
 				<page>0272-0276</page>
 				<allauthors>
@@ -109036,7 +109068,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0280-0284</page>
 				<allauthors/>
@@ -109060,10 +109092,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Kurukshetra-The Land of the Bhagavad-Gita)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0290-0292</page>
-				<allauthors/>
+				<allauthors>
+					<author>Mallika Clare Gupta</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Reminiscences of Master Mahashay</title>
@@ -109074,15 +109108,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda's special relationship with Raja Ajit Singh</title>
+				<title>Vivekananda's Special Relationship with Raja Ajit Singh, Swami</title>
 				<feature></feature>
 				<page>0296-0297</page>
 				<allauthors>
-					<author>Tathagathananda, Swami</author>
+					<author>Tathagatananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kathopanishad in the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0298-0300</page>
 				<allauthors>
@@ -109090,13 +109124,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vivek Express' in chennai</title>
-				<feature></feature>
+				<title>`Vivek Express' in Chennai</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0301-0303</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>A prophecy comes true</title>
+				<title>Prophecy Comes True, A</title>
 				<feature></feature>
 				<page>0304-0307</page>
 				<allauthors>
@@ -109105,30 +109139,30 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0308-0308</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Types' of truth - and beyond</title>
-				<feature></feature>
+				<title>`Types' of Truth - and Beyond</title>
+				<feature>Youth Forum</feature>
 				<page>0309-0309</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Meeting of Sri Ramakrishna and Swami Vivekananda</title>
+				<title>Meeting of Sri Ramakrishna and Swami Vivekananda, The</title>
 				<feature></feature>
 				<page>0310-0313</page>
 				<allauthors>
-					<author>Ram Murthy, N.</author>
+					<author>Ram Murthy, M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Cell Phones - the recent addition to Mahamaya's tricks</title>
+				<title>Cell Phones - The Recent Addition to Mahamaya's Tricks</title>
 				<feature></feature>
 				<page>0314-0316</page>
 				<allauthors>
@@ -109136,7 +109170,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Unpublished letters of Swami Saradananda</title>
+				<title>Unpublished Letters of Swami Saradananda</title>
 				<feature>Letters/New Find</feature>
 				<page>0317-0318</page>
 				<allauthors>
@@ -109150,7 +109184,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0321-0324</page>
 				<allauthors/>
@@ -109166,7 +109200,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>It is like this:. . . </title>
+				<title>It is Like this:...</title>
 				<feature>Editorials</feature>
 				<page>0326-0328</page>
 				<allauthors>
@@ -109174,13 +109208,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Kurukshetra-The Land of the Bhagavad-Gita)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0329-0331</page>
-				<allauthors/>
+				<allauthors>
+					<author>Mallika Clare Gupta</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>The ideal of being a rishi</title>
+				<title>Ideal of Being a Rishi, The</title>
 				<feature></feature>
 				<page>0332-0334</page>
 				<allauthors>
@@ -109188,7 +109224,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sister Nivedita's exemplary Love of India</title>
+				<title>Sister Nivedita's Exemplary Love of India</title>
 				<feature></feature>
 				<page>0335-0339</page>
 				<allauthors>
@@ -109196,7 +109232,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Western Ghats Shrines in Karnataka - a pilgrimage</title>
+				<title>Western Ghats Shrines in Karnataka - A Pilgrimage</title>
 				<feature>Travelogue</feature>
 				<page>0340-0345</page>
 				<allauthors>
@@ -109204,7 +109240,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Time, our Constant Companion</title>
+				<title>Time, Our Constant Companion</title>
 				<feature></feature>
 				<page>0346-0348</page>
 				<allauthors>
@@ -109212,7 +109248,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Meeting of Sri Ramakrishna and Swami Vivekananda</title>
+				<title>Meeting of Sri Ramakrishna and Swami Vivekananda, The</title>
 				<feature></feature>
 				<page>0349-0352</page>
 				<allauthors>
@@ -109228,7 +109264,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Is the Life of Vedantin Beneficial to society</title>
+				<title>Is the Life of Vedantin Beneficial to Society</title>
 				<feature></feature>
 				<page>0355-0356</page>
 				<allauthors>
@@ -109237,7 +109273,7 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0357-0357</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
@@ -109250,7 +109286,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0361-0364</page>
 				<allauthors/>
@@ -109266,7 +109302,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Absence of Jealousy - the test of non-violence</title>
+				<title>Absence of Jealousy - The Test of Non-Violence</title>
 				<feature>Editorials</feature>
 				<page>0366-0369</page>
 				<allauthors>
@@ -109274,13 +109310,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (News and Notes)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0370-0371</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Kathopanishad in the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0372-0374</page>
 				<allauthors>
@@ -109296,7 +109332,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Western Ghats Shrines in Karnataka - a pilgrimage</title>
+				<title>Western Ghats Shrines in Karnataka - A Pilgrimage</title>
 				<feature>Travelogue</feature>
 				<page>0378-0383</page>
 				<allauthors>
@@ -109304,11 +109340,11 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Musings of a writer</title>
+				<title>Musings of a Writer</title>
 				<feature></feature>
 				<page>0384-0385</page>
 				<allauthors>
-					<author>Prema nandakumar</author>
+					<author>Prema Nandakumar</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -109321,14 +109357,14 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0390-0390</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Meeting of Sri Ramakrishna and Swami Vivekananda</title>
+				<title>Meeting of Sri Ramakrishna and Swami Vivekananda, The</title>
 				<feature></feature>
 				<page>0391-0395</page>
 				<allauthors>
@@ -109350,7 +109386,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0401-0404</page>
 				<allauthors/>
@@ -109374,8 +109410,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (By the Way)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0410-0410</page>
 				<allauthors/>
 			</entry>
@@ -109388,7 +109424,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kathopanishad in the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0413-0415</page>
 				<allauthors>
@@ -109396,7 +109432,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Western Ghats Shrines in Karnataka - a pilgrimage</title>
+				<title>Western Ghats Shrines in Karnataka - A Pilgrimage</title>
 				<feature>Travelogue</feature>
 				<page>0416-0424</page>
 				<allauthors>
@@ -109412,7 +109448,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Religious Harmony - a perspective</title>
+				<title>Religious Harmony - A Perspective</title>
 				<feature></feature>
 				<page>0427-0430</page>
 				<allauthors>
@@ -109421,15 +109457,15 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0431-0431</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Social issues and spirutual response</title>
-				<feature></feature>
+				<title>Social Issues and Spirutual Response</title>
+				<feature>Youth Forum</feature>
 				<page>0432-0433</page>
 				<allauthors>
 					<author>Brahmeshananda, Swami</author>
@@ -109450,7 +109486,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0441-0444</page>
 				<allauthors/>
@@ -109458,7 +109494,7 @@
 		</part>
 		<part pnum="12" month="12" year="2011">
 			<entry>
-				<title>Vedic Prayers</title>
+				<title>Prayers</title>
 				<feature>Prayers/Vedic Prayers</feature>
 				<page>0445-0445</page>
 				<allauthors>
@@ -109466,7 +109502,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Glimpses of Sre Ramakrishna's Joy</title>
+				<title>Glimpses of Sri Ramakrishna's Joy</title>
 				<feature></feature>
 				<page>0447-0449</page>
 				<allauthors/>
@@ -109480,19 +109516,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (A Meditation on Sri Ramakrishna)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0454-0454</page>
 				<allauthors>
 					<author>Bhuteshananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna's experience of god</title>
+				<title>Ramakrishna's Experience of God, Sri</title>
 				<feature></feature>
 				<page>0456-0460</page>
 				<allauthors>
-					<author>Smarananada, Swami</author>
+					<author>Smaranananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -109512,7 +109548,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna's Teachings on Meditation</title>
+				<title>Ramakrishna's Teachings on Meditation, Sri</title>
 				<feature></feature>
 				<page>0473-0476</page>
 				<allauthors>
@@ -109520,7 +109556,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna's joy of Illumination</title>
+				<title>Ramakrishna's Joy of Illumination, Sri</title>
 				<feature></feature>
 				<page>0478-0480</page>
 				<allauthors>
@@ -109528,7 +109564,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna and the common person</title>
+				<title>Ramakrishna and the Common Person, Sri</title>
 				<feature></feature>
 				<page>0481-0485</page>
 				<allauthors>
@@ -109536,7 +109572,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The west and the joyous light of Sri Ramakrishna</title>
+				<title>The West and the Joyous Light of Sri Ramakrishna</title>
 				<feature></feature>
 				<page>0487-0491</page>
 				<allauthors>
@@ -109544,7 +109580,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Ramakrishna - the prophet of inner joy</title>
+				<title>Ramakrishna - The Prophet of Inner Joy</title>
 				<feature></feature>
 				<page>0492-0496</page>
 				<allauthors>
@@ -109552,7 +109588,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna: The Embodiment of Indian Culture</title>
+				<title>Ramakrishna: The Embodiment of Indian Culture, Sri</title>
 				<feature></feature>
 				<page>0498-0502</page>
 				<allauthors>
@@ -109561,14 +109597,20 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0503-0504</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna - the great Master of Life skills</title>
+				<title>Ramakrishna's Timeless Message - A Special Presentation, Sri</title>
+				<feature></feature>
+				<page>0505-0521</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Ramakrishna - The Great Master of Life Skills, Sri</title>
 				<feature></feature>
 				<page>0522-0258</page>
 				<allauthors>
@@ -109576,7 +109618,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Devine Dance of Sri Ramakrishna</title>
+				<title>Devine Dance of Sri Ramakrishna, The</title>
 				<feature></feature>
 				<page>0529-0539</page>
 				<allauthors>
@@ -109584,7 +109626,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Musical Miracles' Songs in the gospel of Sri Ramakrishna</title>
+				<title>`Musical Miracles' Songs in the Gospel of Sri Ramakrishna</title>
 				<feature></feature>
 				<page>0541-0545</page>
 				<allauthors>
@@ -109592,7 +109634,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna, the educationist</title>
+				<title>Ramakrishna, the Educationist, Sri</title>
 				<feature></feature>
 				<page>0547-0553</page>
 				<allauthors>
@@ -109600,7 +109642,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Facets of the Prophet - mystic</title>
+				<title>Facets of the Prophet-Mystic</title>
 				<feature></feature>
 				<page>0555-0560</page>
 				<allauthors>
@@ -109608,7 +109650,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna, the Master Yogi</title>
+				<title>Ramakrishna, the Master Yogi, Sri</title>
 				<feature></feature>
 				<page>0562-0568</page>
 				<allauthors>
@@ -109616,7 +109658,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna's Legacy of Joyful Living</title>
+				<title>Ramakrishna's Legacy of Joyful Living, Sri</title>
 				<feature></feature>
 				<page>0569-0573</page>
 				<allauthors>
@@ -109632,7 +109674,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna - the Embodiment of Scriptures</title>
+				<title>Ramakrishna - The Embodiment of Scriptures, Sri</title>
 				<feature></feature>
 				<page>0579-0584</page>
 				<allauthors>
@@ -109640,15 +109682,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna - the uncommon common man</title>
+				<title>Ramakrishna - The Uncommon Common Man, Sri</title>
 				<feature></feature>
 				<page>0586-0590</page>
 				<allauthors>
-					<author>Muralishara, H. N.</author>
+					<author>Muralidhara, H. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Do you long for god ? Read Ramakrishna's Life</title>
+				<title>Do you Long for God? Read Ramakrishna's Life</title>
 				<feature></feature>
 				<page>0592-0593</page>
 				<allauthors>
@@ -109656,13 +109698,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna's presence inspires young lives</title>
+				<title>Ramakrishna's Presence Inspires Young Lives, Sri - e-symposium</title>
 				<feature></feature>
 				<page>0595-0601</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0602-0604</page>
 				<allauthors/>
@@ -109680,7 +109722,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Good Old 'New Year</title>
+				<title>Good Old 'New Year', The</title>
 				<feature>Editorials</feature>
 				<page>0002-0004</page>
 				<allauthors>
@@ -109688,15 +109730,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (The Golden Link to God)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0005-0005</page>
 				<allauthors>
 					<author>Ramaswami Sastri, K. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kathopanishad In the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0006-0009</page>
 				<allauthors>
@@ -109712,7 +109754,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maud Stumm - who taught Swamiji to Draw</title>
+				<title>Maud Stumm - Who Taught Swamiji to Draw</title>
 				<feature></feature>
 				<page>0015-0018</page>
 				<allauthors>
@@ -109720,7 +109762,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Western Ghats Shrines in Karnataka - a pilgrimage</title>
+				<title>Western Ghats Shrines in Karnataka - A Pilgrimage</title>
 				<feature>Travelogue</feature>
 				<page>0019-0025</page>
 				<allauthors>
@@ -109737,7 +109779,7 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0030-0030</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
@@ -109766,7 +109808,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0040-0044</page>
 				<allauthors/>
@@ -109782,7 +109824,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Temple - within and without</title>
+				<title>Temple - Within and Without, The</title>
 				<feature>Editorials</feature>
 				<page>0046-0048</page>
 				<allauthors>
@@ -109790,15 +109832,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Sri Ramakrishna the Great Master)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0049-0049</page>
 				<allauthors>
 					<author>Saradananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Seva yoga and Holy Mother Sri Sarada Devi</title>
+				<title>Seva Yoga and Holy Mother Sri Sarada Devi</title>
 				<feature></feature>
 				<page>0050-0054</page>
 				<allauthors>
@@ -109822,7 +109864,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maud Stumm - who taught Swamiji to Draw</title>
+				<title>Maud Stumm - Who Taught Swamiji to Draw</title>
 				<feature></feature>
 				<page>0059-0063</page>
 				<allauthors>
@@ -109838,13 +109880,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Synopsis of the Governing Body Report for 2010-2011</title>
-				<feature></feature>
+				<title>Synopsis of the Governing Body's Report for 2010-2011</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0066-0068</page>
-				<allauthors/>
+				<allauthors>
+					<author>Prabhananda, Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Western Ghats Shrines in Karnataka - a Pilgrimage</title>
+				<title>Western Ghats Shrines in Karnataka - A Pilgrimage</title>
 				<feature>Travelogue</feature>
 				<page>0069-0074</page>
 				<allauthors>
@@ -109853,15 +109897,15 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0075-0075</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Brahmavadin</title>
-				<feature></feature>
+				<title>Brahmavadin-Digitised Archives Released</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0076-0078</page>
 				<allauthors/>
 			</entry>
@@ -109872,7 +109916,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0081-0084</page>
 				<allauthors/>
@@ -109888,7 +109932,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A House with a difference</title>
+				<title>House with a Difference, A</title>
 				<feature>Editorials</feature>
 				<page>0086-0089</page>
 				<allauthors>
@@ -109896,15 +109940,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Sri Ramakrishna the Saviour of the Age)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0090-0090</page>
 				<allauthors>
 					<author>Bhaskar Iyer</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kathopanishad In the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0091-0094</page>
 				<allauthors>
@@ -109912,7 +109956,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Some Milestones in spiritual Life</title>
+				<title>Some Milestones in Spiritual Life</title>
 				<feature></feature>
 				<page>0095-0097</page>
 				<allauthors>
@@ -109928,7 +109972,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Yoga way of Life</title>
+				<title>Yoga Way of Life, The</title>
 				<feature></feature>
 				<page>0100-0105</page>
 				<allauthors>
@@ -109937,14 +109981,14 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0106-0106</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maud Stumm - who taught swamiji to draw</title>
+				<title>Maud Stumm - Who Taught Swamiji to Draw</title>
 				<feature></feature>
 				<page>0107-0109</page>
 				<allauthors>
@@ -109952,7 +109996,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Western Ghats Shrines in Karnataka - a pilgrimage</title>
+				<title>Western Ghats Shrines in Karnataka - A Pilgrimage</title>
 				<feature>Travelogue</feature>
 				<page>0110-0115</page>
 				<allauthors>
@@ -109974,7 +110018,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0121-0124</page>
 				<allauthors/>
@@ -109990,7 +110034,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>First, Be a gentlemen</title>
+				<title>First, Be a Gentleman</title>
 				<feature>Editorials</feature>
 				<page>0126-0128</page>
 				<allauthors>
@@ -109998,15 +110042,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Sri Ramakrishna the Great Master)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0129-0129</page>
 				<allauthors>
 					<author>Saradananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Understanding the symbology of Ganesha</title>
+				<title>Understanding the Symbology of Ganesha</title>
 				<feature></feature>
 				<page>0130-0132</page>
 				<allauthors>
@@ -110014,11 +110058,11 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda An Incarnation of Shakti</title>
+				<title>Vivekananda an Incarnation of Shakti, Swami</title>
 				<feature></feature>
 				<page>0133-0135</page>
 				<allauthors>
-					<author>Tathagathananda, Swami</author>
+					<author>Tathagatananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -110030,7 +110074,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Western Ghats shrines in Karnataka - a pilgrimage</title>
+				<title>Western Ghats Shrines in Karnataka - A Pilgrimage</title>
 				<feature>Travelogue</feature>
 				<page>0138-0143</page>
 				<allauthors>
@@ -110038,8 +110082,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna Tells stories</title>
-				<feature></feature>
+				<title>Sri Ramakrishna Tells Stories</title>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0144-0144</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
@@ -110050,18 +110094,18 @@
 				<feature></feature>
 				<page>0145-0146</page>
 				<allauthors>
-					<author>Yogacharini Meenakshi Devi Bhavanani</author>
+					<author>Meenakshi Devi Bhavanani, Yogacharini</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Re-living Swami Vivekananda's second Visit to Chennai</title>
-				<feature></feature>
+				<title>Re-Living Swami Vivekananda's Second Visit to Chennai</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0147-0149</page>
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>Celebrations at the Ramakrishna Math, Mylapore, Chennai</title>
-				<feature></feature>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0150-0154</page>
 				<allauthors/>
 			</entry>
@@ -110072,7 +110116,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0161-0164</page>
 				<allauthors/>
@@ -110096,15 +110140,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (How I Met Swamiji)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0169-0170</page>
 				<allauthors>
 					<author>Eric Hammond</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kathopanishad In the words of Swami Vivekananda</title>
+				<title>Kathopanishad: In the Words of Swami Vivekananda</title>
 				<feature></feature>
 				<page>0171-0172</page>
 				<allauthors>
@@ -110116,11 +110160,11 @@
 				<feature>Reminiscences</feature>
 				<page>0173-0177</page>
 				<allauthors>
-					<author>Brahmachari Yatindranath</author>
+					<author>Yatindranath, Brahmachari</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maud Stumm - who taught swamiji to draw</title>
+				<title>Maud Stumm - Who Taught Swamiji to Draw</title>
 				<feature></feature>
 				<page>0178-0180</page>
 				<allauthors>
@@ -110128,7 +110172,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Western Ghats shrines in karnataka - a pilgrimage</title>
+				<title>Western Ghats Shrines in Karnataka - A Pilgrimage</title>
 				<feature>Travelogue</feature>
 				<page>0181-0189</page>
 				<allauthors>
@@ -110136,8 +110180,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna Tells stories</title>
-				<feature></feature>
+				<title>Sri Ramakrishna Tells Stories</title>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0190-0190</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
@@ -110152,11 +110196,11 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda's Humanism</title>
+				<title>Vivekananda's Humanism, Swami</title>
 				<feature></feature>
 				<page>0193-0196</page>
 				<allauthors>
-					<author>Brahmachari Suvimalachaitanya</author>
+					<author>Suvimalachaitanya, Brahmachari</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -110166,7 +110210,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0199-0204</page>
 				<allauthors/>
@@ -110176,7 +110220,7 @@
 			<entry>
 				<title>Vedic Prayers</title>
 				<feature>Prayers/Vedic Prayers</feature>
-				<page>0250-0205</page>
+				<page>0205-0205</page>
 				<allauthors>
 					<author>Sambuddhananda, Swami</author>
 				</allauthors>
@@ -110190,15 +110234,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Govinda Singh the Tenth Sikh Guru)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0209-0212</page>
 				<allauthors>
-					<author>Brahmachari Vishuddha Chaitanya</author>
+					<author>Vishuddha Chaitanya, Brahmachari</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maud Stumm - who taught swamiji to draw</title>
+				<title>Maud Stumm - Who Taught Swamiji to Draw</title>
 				<feature></feature>
 				<page>0213-0216</page>
 				<allauthors>
@@ -110222,7 +110266,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Establishing relationship with god</title>
+				<title>Establishing Relationship with God</title>
 				<feature></feature>
 				<page>0221-0223</page>
 				<allauthors>
@@ -110231,14 +110275,14 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0224-0224</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Death, Dying and the art of dying</title>
+				<title>Death, Dying and the Art of Dying</title>
 				<feature></feature>
 				<page>0225-0227</page>
 				<allauthors>
@@ -110254,8 +110298,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Viveka Smaraka - A Memorial in Honour of Swami Vivekananda's Mysore visit</title>
-				<feature></feature>
+				<title>Viveka Smaraka - A Memorial in Honour of Swami Vivekananda's Mysore Visit</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0235-0237</page>
 				<allauthors/>
 			</entry>
@@ -110266,7 +110310,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0241-0244</page>
 				<allauthors/>
@@ -110282,19 +110326,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>What Matters Most is Sincerity</title>
+				<title>What Matters Most Is Sincerity</title>
 				<feature>Editorials</feature>
-				<page>0246-0250</page>
+				<page>0246-0249</page>
 				<allauthors>
 					<author>Atmashraddhananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Govind Singh, the Tenth Sikh Guru)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0250-0252</page>
 				<allauthors>
-					<author>Brahmachari Vishuddha Chaitanya</author>
+					<author>Vishuddha Chaitanya, Brahmachari</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -110306,7 +110350,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Controlloing the Restless Mind</title>
+				<title>Controlling the Restless Mind</title>
 				<feature></feature>
 				<page>0260-0262</page>
 				<allauthors>
@@ -110314,7 +110358,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Death, Dying and the art of Dying</title>
+				<title>Death, Dying and the Art of Dying</title>
 				<feature></feature>
 				<page>0263-0266</page>
 				<allauthors>
@@ -110338,7 +110382,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Meeting of Subrahmanya Bharati and Sister Nivedita</title>
+				<title>Meeting of Subrahmanya Bharati and Sister Nivedita, The</title>
 				<feature></feature>
 				<page>0271-0275</page>
 				<allauthors>
@@ -110347,15 +110391,15 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0276-0276</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Viveka Murasu</title>
-				<feature></feature>
+				<title>Viveka Murasu - The Kettle-Drum of Viveka Continues to Resonate</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0277-0278</page>
 				<allauthors/>
 			</entry>
@@ -110366,8 +110410,8 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
-				<feature></feature>
+				<title>Book Reviews</title>
+				<feature>Book Reviews</feature>
 				<page>0281-0284</page>
 				<allauthors/>
 			</entry>
@@ -110382,7 +110426,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Self-change: Some Lessons from the Kathopanishad</title>
+				<title>Self-Change: Some Lessons from the Kathopanishad</title>
 				<feature>Editorials</feature>
 				<page>0286-0289</page>
 				<allauthors>
@@ -110390,8 +110434,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Swami Ramakrishnananda: The Meaning of His Life and Work)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0290-0293</page>
 				<allauthors>
 					<author>Ranganathananda, Swami</author>
@@ -110420,7 +110464,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Man Beyond all coverings</title>
+				<title>Man Beyond All Coverings</title>
 				<feature></feature>
 				<page>0304-0306</page>
 				<allauthors>
@@ -110428,8 +110472,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishna tells Stories</title>
-				<feature></feature>
+				<title>Sri Ramakrishna Tells Stories</title>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0307-0307</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
@@ -110466,7 +110510,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0320-0324</page>
 				<allauthors/>
@@ -110482,7 +110526,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Reflections of Being an 'Actor</title>
+				<title>Reflections of Being an 'Actor'</title>
 				<feature>Editorials</feature>
 				<page>0326-0328</page>
 				<allauthors>
@@ -110490,15 +110534,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (Swami Ramakrishnananda: The Meaning of His Life and Work)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0329-0332</page>
 				<allauthors>
 					<author>Ranganathananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda's heroic struggle</title>
+				<title>Vivekananda's Heroic Struggle, Swami</title>
 				<feature></feature>
 				<page>0333-0335</page>
 				<allauthors>
@@ -110514,7 +110558,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Swami Ramakrishnananda, the Thinker</title>
+				<title>Ramakrishnananda, the Thinker, Swami</title>
 				<feature></feature>
 				<page>0338-0341</page>
 				<allauthors>
@@ -110522,19 +110566,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Complete works of Swami Ramakrishnananda released</title>
-				<feature></feature>
+				<title>The Complete Works of Swami Ramakrishnananda Released</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0342-0343</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>A Mandapam for Swami Ramakrishnananda</title>
-				<feature></feature>
+				<title>Mandapam for Swami Ramakrishnananda, A</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0344-0348</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Sri Ramakrishnananda Stuthi</title>
+				<title>Ramakrishnananda Stuthi, Sri</title>
 				<feature></feature>
 				<page>0349-0350</page>
 				<allauthors>
@@ -110542,21 +110586,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>One Hundred and Fiftieth Birth Anniversary celebrations of Swami Ramakrishnananda</title>
-				<feature></feature>
+				<title>One Hundred and Fiftieth Birth Anniversary Celebrations of Swami Ramakrishnananda</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0351-0354</page>
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0355-0355</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Stranger</title>
+				<title>Stranger, The</title>
 				<feature></feature>
 				<page>0356-0356</page>
 				<allauthors/>
@@ -110568,7 +110612,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0361-0364</page>
 				<allauthors/>
@@ -110584,7 +110628,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The art of Going within</title>
+				<title>Art of Going Within, The</title>
 				<feature>Editorials</feature>
 				<page>0366-0369</page>
 				<allauthors>
@@ -110592,13 +110636,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Simhavalokanam</title>
-				<feature></feature>
+				<title>Simhavalokanam (What is Tapasya)</title>
+				<feature>Simhavalokanam</feature>
 				<page>0370-0371</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Swami Vivekananda's Heroic Struggle</title>
+				<title>Vivekananda's Heroic Struggle, Swami</title>
 				<feature></feature>
 				<page>0372-0376</page>
 				<allauthors>
@@ -110614,7 +110658,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Unpublished letters of Swami Turiyananda</title>
+				<title>Unpublished Letters of Swami Turiyananda</title>
 				<feature>Letters/New Find</feature>
 				<page>0381-0382</page>
 				<allauthors>
@@ -110622,7 +110666,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Some facts of Meditation</title>
+				<title>Some Facts of Meditation</title>
 				<feature></feature>
 				<page>0383-0384</page>
 				<allauthors>
@@ -110630,7 +110674,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Vidya Upasana - A vedantic way to worship</title>
+				<title>Sri Vidya Upasana - A Vedantic Way to Worship</title>
 				<feature></feature>
 				<page>0385-0389</page>
 				<allauthors>
@@ -110639,24 +110683,24 @@
 			</entry>
 			<entry>
 				<title>Sri Ramakrishna Tells Stories</title>
-				<feature></feature>
+				<feature>Sri Ramakrishna Tells Stories</feature>
 				<page>0390-0390</page>
 				<allauthors>
 					<author>Ramakrishna, Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>To Work or Not to Work ?</title>
+				<title>To Work or Not to Work?</title>
 				<feature></feature>
 				<page>0391-0394</page>
 				<allauthors>
 					<author>Lekshmi, Dr. R.</author>
-					<author>Thushara C. S</author>
+					<author>Thushara C. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Celcebrations at the Thousand Island Park</title>
-				<feature></feature>
+				<title>Celebrations at the Thousand Island Park</title>
+				<feature>News and Reports/The Order on the March</feature>
 				<page>0395-0397</page>
 				<allauthors/>
 			</entry>
@@ -110667,7 +110711,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Book Reviews</title>
 				<feature>Book Reviews</feature>
 				<page>0401-0404</page>
 				<allauthors/>
